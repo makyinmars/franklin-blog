@@ -3,7 +3,7 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://blog.franklinjara.dev",
   author: "Franklin Jara",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "I'll be sharing my experiences with these tools and frameworks, as well as providing insight into best practices for using them in your own projects. We'll also explore topics such as responsive design, performance optimization, and more.",
   title: "Franklin's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -20,19 +20,19 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/makyfj",
+    href: "https://github.com/makyfj/franklin-blog",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
     name: "Facebook",
-    href: "",
+    href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
     active: false,
   },
   {
     name: "Instagram",
-    href: "",
+    href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
     active: false,
   },
