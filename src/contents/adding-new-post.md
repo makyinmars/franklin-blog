@@ -1,19 +1,18 @@
 ---
-author: Sat Naing
-datetime: 2022-09-23T15:22:00Z
-title: Adding new posts in AstroPaper theme
-slug: adding-new-posts-in-astropaper-theme
+author: Franklin Jara 
+datetime: 2023-01-5T15:22:00Z
+title: Hello World
+slug: hello-world
 featured: true
 draft: false
 tags:
-  - docs
+  - sample
 ogImage: ""
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+  First Hello World content.
 ---
 
-Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
+Hello World
 
 ## Table of contents
 

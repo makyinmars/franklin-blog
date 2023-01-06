@@ -4,7 +4,7 @@ export const SITE = {
   website: "https://blog.franklinjara.dev",
   author: "Franklin Jara",
   desc: "I'll be sharing my experiences with these tools and frameworks, as well as providing insight into best practices for using them in your own projects. We'll also explore topics such as responsive design, performance optimization, and more.",
-  title: "Franklin's Blog",
+  title: "Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
